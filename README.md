@@ -1,7 +1,7 @@
-repository-name
-# Repository Name
+liquibase
+# Liquibase
 
-Based on "ABC" at https://www.abc.com/
+Based on "Learn Liquibase" at https://learn.liquibase.com/
 
 ## 100 - Introduction
 
