@@ -7,6 +7,8 @@ Based on "Liquibase Actions for the GitHub Actions Marketplace" at https://githu
 
 Based on "Download Liquibase" at https://www.liquibase.com/download
 
+Based on "Liquibase Image on Docker Hub" at https://hub.docker.com/r/liquibase/liquibase
+
 ## 100 - Introduction
 
 See [README.md](./100/README.md)
